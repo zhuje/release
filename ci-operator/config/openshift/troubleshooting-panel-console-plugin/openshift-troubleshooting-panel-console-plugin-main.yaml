@@ -11,7 +11,7 @@ images:
 promotion:
   to:
   - excluded_images:
-    - monitoring-plugin-test
+    - troubleshooting-panel-console-plugin-test
     name: "4.16"
     namespace: ocp
 releases:
